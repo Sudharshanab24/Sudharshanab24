@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudharshanab24" alt="sudharshanab24" /></a> </p>
 
-- 🔭 I’m currently working on developing my first flutter app.(https://github.com/Sudharshanab24/app.git)
+- 🔭 I’m currently working on developing my portfolio.
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Coding**
 
 - 💬 Ask me about **Programming**
 
